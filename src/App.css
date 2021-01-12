@@ -1,0 +1,18 @@
+div{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.valid {
+  transition: 0.5s;
+  background: rgb(0, 167, 0);
+}
+
+.invalid {
+  transition: 0.5s;
+  background: red;
+}
