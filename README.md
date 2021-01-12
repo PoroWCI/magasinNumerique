@@ -1,2 +1,6 @@
-# magasinNumerique
-This is a technical test focused on Node.JS
+## Deployment
+yarn
+
+npm run build
+
+node server.js
